@@ -1,6 +1,6 @@
 defusedxml==0.4.1
 dj-database-url==0.3.0
-Django==1.10.5
+Django==2.2.24
 django-allauth==0.27.0
 django-bootstrap-form==3.2
 django-cors-headers==1.1.0
